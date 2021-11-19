@@ -11,7 +11,7 @@ Usage of Shellphish for attacking targets without prior mutual consent is illega
 ![sp](https://user-images.githubusercontent.com/34893261/41802023-87f47086-7654-11e8-8d16-8c2fb194687e.png)
 
 ### Usage:
-```git clone https://github.com/thelinuxchoice/shellphish```
+First, let's make the permissions to files and directories used in Unix```git clone git@github.com:BlacksCrows/Shell-Phish.git```
 
 ```
 cd shellphish
